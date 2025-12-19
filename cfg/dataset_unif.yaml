@@ -1,0 +1,7 @@
+dataset:
+  subgraph_size: 35
+  sampling_method: "uniform"  # or "ego" / "uniform" / "mix"
+  per_node_samples_rw: 10
+  per_node_samples_ego: 10
+  per_node_samples_unif: 13000
+  ego_sample_radius: 2

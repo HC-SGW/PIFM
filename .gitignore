@@ -1,0 +1,12 @@
+outputs/
+
+
+__pycache__/
+dataset/
+logs/
+*.sh
+!scripts/*.sh
+LPFormerCodes/
+run_cora_LP_gauss.sh
+run_cora_LP_lpformer_unif.sh
+test.py
